@@ -1,2 +1,2 @@
 # SlipperySnake
-website URl : https://rishithecoder.github.io/SlipperySnake/
+website URl : https://rishikesh-555.github.io/SlipperySnake/
